@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-// Need to enable extention for appium testing so far.
-import 'package:flutter_driver/driver_extension.dart';
 
 void main() {
-  enableFlutterDriverExtension();
   runApp(MyApp());
 }
 
